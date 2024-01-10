@@ -1,5 +1,3 @@
-# Name: M Shaafi Jahangir
-
 import socket
 import ssl
 import sys
