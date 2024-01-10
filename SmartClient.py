@@ -1,5 +1,4 @@
 # Name: M Shaafi Jahangir
-# ID: V00960196
 
 import socket
 import ssl
