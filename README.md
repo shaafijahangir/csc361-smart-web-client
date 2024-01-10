@@ -5,21 +5,22 @@ a given URL: including checking HTTP/2 support, parsing and printing cookies, an
 checking if the website is password-protected. It also handles HTTP 300-level redirects 
 and follows them recursively.
 
-Prerequisites
+## Prerequisites
 - Python 3.x
 - Required Python libraries: `socket`, `ssl`, `sys`, `re`
 
-Error Handling
+## Error Handling
 The script includes error handling to gracefully handle exceptions that may occur 
 during execution. Any errors encountered are printed with informative messages to 
 help diagnose and address issues.
 
-Usage
+## Usage
 1. Clone or download the repository to your local machine.
 2. Open a terminal or command prompt.
 3. Navigate to the directory where the script (`website_analysis.py`) is located.
 4. Run the script by using the following command:
 
+    ```bash
    python SmartClient.py <url>
 
 For example
