@@ -1,4 +1,4 @@
-#CSC361 Assignment 1 - Smart Web Client
+# CSC361 Assignment 1 - Smart Web Client
 
 The Smart Web Client is a Python script that performs various tasks related to 
 a given URL: including checking HTTP/2 support, parsing and printing cookies, and 
